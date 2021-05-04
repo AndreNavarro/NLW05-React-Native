@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="PlantManager" title="PlantManager" src="assets/icon.png" width="220px" />
+  <img alt="PlantManager" title="PlantManager" src="assets/icon.png" width="120px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScript
+- TypeScript
 - React Native
 - AsyncStorage
 - Expo
